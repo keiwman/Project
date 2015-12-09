@@ -1,0 +1,41 @@
+c:\users\vip\documents\visual studio 2012\Projects\Project\Project\bin\Debug\Project.exe.config
+c:\users\vip\documents\visual studio 2012\Projects\Project\Project\bin\Debug\Project.exe
+c:\users\vip\documents\visual studio 2012\Projects\Project\Project\bin\Debug\Project.pdb
+c:\users\vip\documents\visual studio 2012\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+c:\users\vip\documents\visual studio 2012\Projects\Project\Project\obj\Debug\Project.Form1.resources
+c:\users\vip\documents\visual studio 2012\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+c:\users\vip\documents\visual studio 2012\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+c:\users\vip\documents\visual studio 2012\Projects\Project\Project\obj\Debug\Project.exe
+c:\users\vip\documents\visual studio 2012\Projects\Project\Project\obj\Debug\Project.pdb
+C:\Users\VIP\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\HtmlAgilityPack.dll
+C:\Users\VIP\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\VIP\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\HtmlAgilityPack.xml
+C:\Users\VIP\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\HtmlAgilityPack.pri
+C:\Users\VIP\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\VIP\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\VIP\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\VIP\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\VIP\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\VIP\Desktop\Project\Project\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\VIP\Desktop\Project\Project\bin\Debug\HtmlAgilityPack.xml
+C:\Users\VIP\Desktop\Project\Project\bin\Debug\HtmlAgilityPack.pri
+C:\Users\VIP\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\VIP\Desktop\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\VIP\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\VIP\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\VIP\Desktop\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\VIP\Desktop\Project\Project\bin\Debug\HtmlAgilityPack.dll
+C:\Users\VIP\Desktop\Project3sprt\Project\bin\Debug\Project.exe.config
+C:\Users\VIP\Desktop\Project3sprt\Project\obj\Debug\Project.exe
+C:\Users\VIP\Desktop\Project3sprt\Project\obj\Debug\Project.pdb
+C:\Users\VIP\Desktop\Project3sprt\Project\bin\Debug\Project.exe
+C:\Users\VIP\Desktop\Project3sprt\Project\bin\Debug\Project.pdb
+C:\Users\VIP\Desktop\Project3sprt\Project\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\VIP\Desktop\Project3sprt\Project\bin\Debug\HtmlAgilityPack.xml
+C:\Users\VIP\Desktop\Project3sprt\Project\bin\Debug\HtmlAgilityPack.pri
+C:\Users\VIP\Desktop\Project3sprt\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\VIP\Desktop\Project3sprt\Project\obj\Debug\Project.Form1.resources
+C:\Users\VIP\Desktop\Project3sprt\Project\obj\Debug\Project.Form2.resources
+C:\Users\VIP\Desktop\Project3sprt\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\VIP\Desktop\Project3sprt\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\VIP\Desktop\Project3sprt\Project\obj\Debug\Project.Form3.resources
